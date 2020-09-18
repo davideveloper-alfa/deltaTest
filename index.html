@@ -8,10 +8,12 @@
     <title>Carlo's Barber</title>
     <script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.css"> -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.min.css">
-    
 
-    <link rel="preload" href="css/styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.7/fullpage.min.css">
+    </noscript>
+    
     <noscript>
         <link rel="stylesheet" href="css/styles.css">
     </noscript>
@@ -24,19 +26,21 @@
         <div></div>
         <div></div>
         <div></div>
+
+        <p>Preparando Sitio...</p>
     </div>
     
     <nav class="nav">
         <a href="#inicio" class="marca">Carlo's</a>
         <ul id="menu" class="menu">
             <li data-menuanchor="inicio" class="active">
-                <a href="#inicio">Inicio</a>
+                <a href="#inicio" name="inicio">Inicio</a>
             </li>
             <li data-menuanchor="productos">
-                <a href="#productos">Productos</a>
+                <a href="#productos" name="productos">Productos</a>
             </li>
             <li data-menuanchor="contacto">
-                <a href="#contacto">Contacto</a>
+                <a href="#contacto" name="contacto">Contacto</a>
             </li>
         </ul>
     </nav>

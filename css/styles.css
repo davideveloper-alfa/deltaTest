@@ -1,4 +1,3 @@
-/* @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;700&family=Dynalight&family=Italianno&family=Lovers+Quarrel&family=Mr+De+Haviland&family=Rochester&family=Rouge+Script&family=Seaweed+Script&display=swap"); */
 
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Oswald&display=swap');
 
@@ -714,7 +713,7 @@ h6 {
 
 
 .loader{
-  background: rgba(0, 0, 0, 0.945);
+  background: rgb(0, 0, 0);
   width: 100%;
   height: 100vh;
   display: flex;
@@ -724,7 +723,7 @@ h6 {
   left: 0;
   z-index: 100000;
   clip-path: circle(150% at 100% 100%);
-  transition: clip-path 2s ease-in-out;
+  transition: clip-path 3s ease-in-out;
 }
 
 .loader2{

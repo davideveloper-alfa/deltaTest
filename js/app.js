@@ -42,13 +42,12 @@ const sectionsPage = new fullpage('#fullPage', {
     }
   },
 
-	  
-
 });
 
-var timeStart = Date.now();
+// var timeStart = Date.now();
 
 window.addEventListener("load", function (event) {
   document.getElementById("loader").classList.toggle("loader2");
-  console.log("Tiempo de carga ", (Date.now - timeStart));
+  // console.log("Tiempo de carga ", (Date.now - timeStart));
 })
+

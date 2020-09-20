@@ -723,7 +723,7 @@ h6 {
   left: 0;
   z-index: 100000;
   clip-path: circle(150% at 100% 100%);
-  transition: clip-path 1.5s ease-in-out;
+  transition: clip-path 1s ease-in-out;
 }
 
 .loader2{

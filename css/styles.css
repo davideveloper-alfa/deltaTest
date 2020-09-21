@@ -116,7 +116,7 @@ h6 {
 /*-------------------------*/
 
 .header {
-  background: url("../img_w/allef-vinicius-IvQeAVeJULw-unsplash.jpg");
+  background: url("../img_w/allef-vinicius-IvQeAVeJULw-unsplash.jpf");
   background-position: center;
   position: relative;
   background-size: cover;
@@ -181,15 +181,15 @@ h6 {
 }
 
 .productos article:nth-child(1) {
-  background-image: url(../img_w/apothecary-87-0OY7DzABRFw-unsplash.jpg);
+  background-image: url(../img_w/apothecary-87-0OY7DzABRFw-unsplash.jpf);
 }
 
 .productos article:nth-child(2) {
-  background-image: url(../img_w/edwin-gonzalez-iCKFKD-XfrY-unsplash.jpg);
+  background-image: url(../img_w/edwin-gonzalez-iCKFKD-XfrY-unsplash.jpf);
 }
 
 .productos article:nth-child(3) {
-  background-image: url(../img_w/agustin-fernandez-Znyjl9pbaUs-unsplash-min.jpg);
+  background-image: url(../img_w/agustin-fernandez-Znyjl9pbaUs-unsplash-min.jpf);
 }
 
 .informacion-producto{

@@ -116,7 +116,7 @@ h6 {
 /*-------------------------*/
 
 .header {
-  background: url("../img_w/allef-vinicius-IvQeAVeJULw-unsplash-min_1-min.jpg");
+  background: url("../img_w/allef-vinicius-IvQeAVeJULw-unsplash.jpg");
   background-position: center;
   position: relative;
   background-size: cover;
@@ -181,11 +181,11 @@ h6 {
 }
 
 .productos article:nth-child(1) {
-  background-image: url(../img_w/apothecary-87-0OY7DzABRFw-unsplash-min.jpg);
+  background-image: url(../img_w/apothecary-87-0OY7DzABRFw-unsplash.jpg);
 }
 
 .productos article:nth-child(2) {
-  background-image: url(../img_w/edwin-gonzalez-iCKFKD-XfrY-unsplash-min.jpg);
+  background-image: url(../img_w/edwin-gonzalez-iCKFKD-XfrY-unsplash.jpg);
 }
 
 .productos article:nth-child(3) {
